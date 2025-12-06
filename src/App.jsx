@@ -6,7 +6,7 @@ import Musu from './Musu'
 import Nu from './Nu'
 import Dip from './Dip'
 import Su from './Su'
-import Hii from './hii.jsx'
+import Hii from './Hii.jsx'
 import Footer from './Footer.jsx'
 function App() {
   return (
