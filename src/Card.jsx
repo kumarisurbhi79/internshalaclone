@@ -1,8 +1,8 @@
 import React from 'react'
-import Sp1 from './Sp1.png'
-import Sp2 from './Sp2.png'
-import Sp3 from './Sp3.png'
-import Sp4 from './Sp4.png'
+import Sp1 from './sp1.png'
+import Sp2 from './sp2.png'
+import Sp3 from './sp3.png'
+import Sp4 from './sp4.png'
 import n from './n.png'
 function Card() {
   return (
