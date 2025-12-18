@@ -2,7 +2,7 @@ import React from 'react'
 import logo from './logo.png'
 import chat from './chat.png'
 import email from './email.png'
-function Nav() {
+function Navbar() {
   return (
     <div className='nav'>
         <img id="logo" src={logo} alt="Logo" />
@@ -19,4 +19,4 @@ function Nav() {
   )
 }
 
-export default Nav
+export default Navbar

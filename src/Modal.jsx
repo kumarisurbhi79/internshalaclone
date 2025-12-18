@@ -1,6 +1,6 @@
 import React from 'react'
 
-function hii() {
+function Modal() {
   return (
     <div className='ru'>
         <h1 id="a">Internship by Places</h1>
@@ -132,4 +132,4 @@ View all courses
   )
 }
 
-export default hii
+export default Modal

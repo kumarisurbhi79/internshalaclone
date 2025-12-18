@@ -1,24 +1,24 @@
 import React from 'react'
-import St from './St'
-import './St.css'
-import Nav from './Nav'
-import Musu from './Musu'
-import Nu from './Nu'
-import Dip from './Dip'
-import Su from './Su'
-import Hii from './Hii.jsx'
+import Content from './content.jsx'
+import './Navbar.css'
+import Navbar from './Navbar.jsx'
+import About from './About.jsx'
+import Services from './Services.jsx'
+import Card from './Card.jsx'
+import Button from './Button.jsx'
+import Modal from './Modal.jsx'
 import Footer from './Footer.jsx'
 function App() {
   return (
 
     <div>
-      <St/>
-      <Nav/>
-      <Musu/>
-      <Nu/>
-      <Dip/>
-      <Su/>
-      <Hii/>
+      <Content/>
+      <Navbar/>
+      <About/>
+      <Services/>
+      <Card/>
+      <Button/>
+      <Modal/>
       <Footer/>
     </div>
     

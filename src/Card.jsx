@@ -4,7 +4,7 @@ import Sp2 from './Sp2.png'
 import Sp3 from './Sp3.png'
 import Sp4 from './Sp4.png'
 import n from './n.png'
-function Dip() {
+function Card() {
   return (
     <div>
         <div className='ra'>
@@ -23,4 +23,4 @@ function Dip() {
   )
 }
 
-export default Dip
+export default Card

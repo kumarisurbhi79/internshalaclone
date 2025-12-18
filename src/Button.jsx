@@ -4,7 +4,7 @@ import bh2 from './bh2.png'
 import bh3 from './bh3.png'
 import bh4 from './bh4.png'
 import na from './na.png'
-function Su() {
+function Button() {
   return (
         <div className='ram'>
 <h1 id="hii">Certification courses for you</h1>
@@ -25,4 +25,4 @@ function Su() {
   )
 }
 
-export default Su
+export default Button

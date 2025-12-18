@@ -4,7 +4,7 @@ import img2 from './img2.png'
 import img3 from './img3.png'
 import img4 from './img4.png'
 import na from './na.png'
-function Nu() {
+function Services() {
   return (
     <div className='ram'>
 <h1 id="hii">Recommended for you</h1>
@@ -22,4 +22,4 @@ function Nu() {
   )
 }
 
-export default Nu
+export default Services
